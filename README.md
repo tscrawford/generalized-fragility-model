@@ -9,7 +9,7 @@ raster fields for each hazard quantity and a collection of assets, which are the
 hazard fields by spatial location.  It then provides an interface for users to create their own
 custom-made response estimator routines. 
 
-<img src="https://github.com/tscrawford/turbo-fresh-gfm/blob/master/test_data/dataFlow.PNG" width="400" height="200" />
+<img src="https://github.com/tscrawford/generalized-fragility-model/blob/master/test_data/dataFlow.PNG" width="400" height="200" />
 
 The remainder of this document will cover the following:
 
