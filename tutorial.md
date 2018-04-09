@@ -65,7 +65,7 @@ in test_data/inputs/example_buildings.json
 An example hazard field is provided in test_data/fields/spectralField_example.asc
 > Spectral displacement field was randomly generated and doesn;t represent real data!
 
-<img src="https://github.com/tscrawford/turbo-fresh-gfm/blob/master/test_data/hazardField.PNG" width="400" height="400" />
+<img src="https://github.com/tscrawford/generalized-fragility-model/blob/master/test_data/hazardField.PNG" width="400" height="400" />
 
 ### Response Estimation 
 
